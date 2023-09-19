@@ -1,0 +1,7 @@
+﻿{
+  "name": "AltMithrixTheme",
+  "version_number": "1.0.2",
+  "website_url": "",
+  "description": "Alt song for mithrix's fight",
+  "dependencies": ["RiskofThunder-R2API_Sound-1.0.2"]
+}
